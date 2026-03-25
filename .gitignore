@@ -1,0 +1,20 @@
+.env
+
+Virtual environment
+
+venv/
+env/
+
+Uploaded files (user images)
+
+uploads/
+static/uploads/
+
+Generated outputs (posters etc.)
+
+static/outputs/
+
+System files
+
+.DS_Store
+Thumbs.db
